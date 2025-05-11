@@ -18,7 +18,7 @@ Comparison by income levels (low, middle, high income)
 
 Visual storytelling using line charts, bar graphs, and more
 
-🎯** Project Objectives**
+🎯**Project Objectives**
 
 Visualize how child mortality has evolved globally
 
@@ -26,8 +26,8 @@ Compare performance across income categories
 
 Promote data-driven awareness on child survival
 
-🧰 **Tools & Libraries Used
-**
+🧰 **Tools & Libraries Used**
+
 Google Colab
 
 Python
