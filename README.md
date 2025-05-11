@@ -56,6 +56,13 @@ Interpret trends and differences
 
 The dataset used for this analysis was obtained from Our World in Data and has been appropriately cleansed for accuracy and consistency.
 
+**Visualisations include**
+![image](https://github.com/user-attachments/assets/c65dec75-2f27-466b-a79d-276829b25a9f)
+![image](https://github.com/user-attachments/assets/b276029f-e51f-4027-8801-5e9761db014a)
+![image](https://github.com/user-attachments/assets/684a3a12-1131-4820-ad56-497f339abbea)
+![image](https://github.com/user-attachments/assets/59a9201e-4611-4a32-a4f5-822ba6902e34)
+
+
 🤝 **Contributions**
 
 Contributions are welcome. Feel free to fork the repo, improve visualizations, or add insights.
