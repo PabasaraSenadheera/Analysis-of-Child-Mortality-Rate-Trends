@@ -2,6 +2,8 @@
 
 Understanding child mortality is critical to measuring global health and inequality. This project explores how child mortality rates have changed across countries and income groups over the past 33 years (1990–2023), helping identify progress, gaps, and areas needing attention.
 
+![Child Mortality Chart](https://i.imgur.com/y4xTSEe.png)
+
  **Overview of the Repository**
 
 Child_Mortality_Analysis.ipynb: Jupyter notebook with data cleaning, visualizations, and insights.
